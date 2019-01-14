@@ -6,7 +6,7 @@ Southwest Airlines Flight Count Data Scraper
 Created by George Thompson
 
 This data scraper will allow users to retrieve the count of available "one-stop" and "non-stop"
-flights given origin and destination locations within a provided CSV file.
+flights given origin and destination locations within a provided CSV file.\
 
 **File Guide**
 
