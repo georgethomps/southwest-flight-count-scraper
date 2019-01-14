@@ -27,7 +27,7 @@ same folder.
 
 2: open your local terminal and cd into the folder that you placed your files
 
-3: Run "python example-input.csv" or Run "python3 example-input.csv" (this is dependent on your OS, you need Python3 to run this script)
+3: Run "python example-input.csv" or run "python3 example-input.csv" (this is dependent on your OS, you need Python3 to run this script)
 
 4: Enter the information requested by the program. If you make any errors, press "ctrl+c" and start 
 from the beginning.
