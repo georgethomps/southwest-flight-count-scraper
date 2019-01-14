@@ -12,7 +12,7 @@ Script: `southwest-flight-count-scraper.py`
 Input: `example-input.csv`
 
 Output: `output.csv`
-<br><br>
+&nbsp;
 **Additional Comments & Concerns**
 
 Since this program was created for solely myself to complete a job, the program
