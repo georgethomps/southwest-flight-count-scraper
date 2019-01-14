@@ -24,7 +24,7 @@ when prompted for information; error-handling is not implemented within this scr
 
 The input CSV file can be named whatever you want and contain any destinations you want
 as long as the file has a column header, the flights are separated by a hyphen ("-"), and
-the destinations use the airport codes (in all caps).
+the destinations are only airport codes (in all caps).
 
 *WARNING*: The test CSV has a limited number of flights, so it's very possible that Southwest's site
 will block your IP if you run too many searches. If you experience issues, reduce the number
