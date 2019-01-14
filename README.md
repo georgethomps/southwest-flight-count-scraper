@@ -31,7 +31,7 @@ Step 4:
 Enter the information requested by the program. If you make any errors, press "ctrl+c" and start 
 from the beginning.
 
-**additional comments**
+**Additional comments**
 The input CSV file can be named whatever you want and contain any destinations you want
 as long as you have a column header and the flights are separated by a hyphen ("-").
 
