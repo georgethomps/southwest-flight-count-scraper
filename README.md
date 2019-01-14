@@ -8,9 +8,10 @@ flights given origin and destination locations within a provided CSV file.
 **File Guide**
 
 Script: southwest-flight-count-scraper.py
-Input: example-input.csv
-Output: output.csv
 
+Input: example-input.csv
+
+Output: output.csv
 
 **Additional Comments & Concerns**
 
