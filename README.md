@@ -23,6 +23,13 @@ Since this program was created for solely myself to complete a job, the program
 was built under the assumption that the user will not make errors when prompted for information. 
 Error handling was not implemented in this project for this reason.
 
+The input CSV file can be named whatever you want and contain any destinations you want
+as long as you have a column header and the flights are separated by a hyphen ("-").
+
+*WARNING*: The test CSV has a limited number of flights, so it's very possible that Southwest's site
+will eventually block your IP from further running searches. If you experience issues, reduce the number
+of rows in the input CSV file.
+
 &nbsp;
 
 **Running the Script**
@@ -39,12 +46,4 @@ from the beginning.
 
 &nbsp;
 
-**Additional Comments**
-The input CSV file can be named whatever you want and contain any destinations you want
-as long as you have a column header and the flights are separated by a hyphen ("-").
 
-&nbsp;
-
-**WARNING**: The test CSV has a limited number of flights, so it's very possible that Southwest's site
-will eventually block your IP from further running searches. If you experience issues, reduce the number
-of rows in the input CSV file.
