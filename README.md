@@ -39,6 +39,6 @@ could be written more elegantly.
 Furthermore, the input CSV file can be named whatever you want and contain any destinations you want
 as long as you have a column header, and the flights are separated by a hyphen ("-").
 
-WARNING: The test CSV has a limited number of flights, so it's very possible that Southwest's site
-will eventually block your IP from further running searches. I plan to first learn Scrapy before 
-handling such issues in future webscraping projects.
+**WARNING**: The test CSV has a limited number of flights, so it's very possible that Southwest's site
+will eventually block your IP from further running searches. If you experience issues, reduce the number
+of rows in the input CSV file.
