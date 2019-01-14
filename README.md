@@ -22,14 +22,14 @@ Error handling was not implemented in this project for this reason.
 
 **Running the script**
 
-1: place both the "example-input.csv" and "southwest-flight-countscraper.py" files into the
+1. place both the "example-input.csv" and "southwest-flight-countscraper.py" files into the
 same folder.
 
-2: open your local terminal and cd into the folder that you placed your files
+2. open your local terminal and cd into the folder that you placed your files
 
-3: Run "python example-input.csv" or run "python3 example-input.csv" (this is dependent on your OS, you need Python 3 to run this script)
+3. Run "python example-input.csv" or run "python3 example-input.csv" (this is dependent on your OS, you need Python 3 to run this script)
 
-4: Enter the information requested by the program. If you make any errors, press "ctrl+c" and start 
+4. Enter the information requested by the program. If you make any errors, press "ctrl+c" and start 
 from the beginning.
 
 **Additional comments**
