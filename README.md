@@ -14,6 +14,7 @@ Input: `example-input.csv`
 Output: `output.csv`
 
 &nbsp;
+
 **Additional Comments & Concerns**
 
 Since this program was created for solely myself to complete a job, the program
