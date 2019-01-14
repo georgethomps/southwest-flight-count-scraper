@@ -2,8 +2,8 @@
 
 **Project Description**
 
-This data scraper will allow users to retrieve the count of available "one-stop" and "non-stop"
-flights given origin and destination locations within a provided CSV file.  
+This web scraping program will allow users to retrieve the count of available "one-stop" and "non-stop"
+Southwest flights with a CSV file that contains a list of origin and destination flight pairs. 
 
 &nbsp;
 
