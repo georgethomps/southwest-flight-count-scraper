@@ -1,23 +1,23 @@
 # southwest-flight-count-scraper
 
-*Project Description*
+**Project Description**
 Southwest Airlines Flight Count Data Scraper
 Created by George Thompson
 
 This data scraper will allow users to retrieve the count of available "one-stop" and "non-stop"
 flights given origin and destination locations within a provided CSV file.
 
-*File Guide*
+**File Guide**
 Script: southwest-flight-count-scraper.py
 Input: example-input.csv
 Output: output.csv
 
-*Additional Comments & Concerns*
+**Additional Comments & Concerns**
 Since this program was created for solely myself to complete a job, the program
 was built under the assumption that the user will not make errors when prompted for information. 
 Error handling was not implemented in this project for this reason.
 
-*Running the script*
+**Running the script**
 Step 1: place both the "example-input.csv" and "southwest-flight-countscraper.py" files into the
 same folder.
 
@@ -31,7 +31,7 @@ Step 4:
 Enter the information requested by the program. If you make any errors, press "ctrl+c" and start 
 from the beginning.
 
-*additional comments*
+**additional comments**
 Some TODO's are scattered throughout the script for potential improvements I'll make if I
 happen to revisit this project. Regardless, this program achieves its purpose even though some code
 could be written more elegantly.
