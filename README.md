@@ -20,7 +20,7 @@ Output: `output.csv`
 **Additional Comments & Concerns**
 
 This program is built under the assumption that the user will not make errors 
-when prompted for information. Error handling is not
+when prompted for information; error-handling is not implemented within this script.
 
 The input CSV file can be named whatever you want and contain any destinations you want
 as long as you have a column header and the flights are separated by a hyphen ("-").
