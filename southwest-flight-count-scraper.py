@@ -13,7 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # SECTION 1: IMPORTING & BUILDING DATA
 
 # ask user for csv file
-csv_file = input('Please enter the name of your CSV file and press enter...\n')
+csv_file = input('\nPlease enter the name of your CSV file and press enter...\n')
 
 # open CSV file and store flight destinations
 with open(csv_file) as flight_table:
@@ -94,7 +94,7 @@ def count_flights(soup_matches):
     return oneStop_count, nonStop_count
 
 # notify user that flight count data is being retrieved
-print('Retrieving and storing flight count data...\n')
+print('\nRetrieving and storing flight count data...')
 
 # loop through flights and record flight count data
 # TODO: put this into a separate module
@@ -149,7 +149,7 @@ print('\nFlight count data successfully retrieved!\n')
 # SECTION 3: WRITE FLIGHT COUNT DATA TO OUTPUT CSV FILE
 
 # notify user that the data is being exported
-print('\nExporting Data...\n')
+print('Exporting Data...\n')
 
 # create a list of table column names for the CSV file
 col_headers = list(flights[0].keys()); col_headers = [x.replace("_"," ").title() for x in col_headers]
@@ -173,8 +173,8 @@ with open('output.csv','w') as output_file:
 output_file.close()
 
 # notify user that the data was successfully exported
-print('\nData successfully exported!\n')
+print('Data successfully exported!\n')
 
 # close the program while notifying the user
-print('\nTerminating program...')
+print('Terminating program...\n')
 quit()
