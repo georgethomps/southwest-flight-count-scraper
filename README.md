@@ -13,7 +13,7 @@ Input: test.csv
 Output: output.csv
 
 *CSV Formatting Guide*
-[any field name]\n
+[any field name]
 OAK-ORD           # each line in this example represents a row in the CSV file.
 OAK-ORD           # all entries can contain any 3 digit airport codes.             
 OAK-ORD           # CAPS is recommended and the hypen ("-") is required!
