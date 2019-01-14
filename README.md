@@ -1,5 +1,6 @@
 # southwest-flight-count-scraper
 
+-------------------------Project Description--------------------------------------------------
 Southwest Airlines Flight Count Data Scraper
 Created by George Thompson
 
@@ -10,14 +11,14 @@ flights given origin and destination locations within a provided CSV file.
 Script: southwest-flight-count-scraper.py
 Input: test.csv
 Output: output.csv
--------------------------------------------------------------------------------
+
 
 ------------------------CSV Formatting Guide-----------------------------------
 [any field name]
 OAK-ORD           # each line in this example represents a row in the CSV file.
 OAK-ORD           # all entries can contain any 3 digit airport codes.             
 OAK-ORD           # CAPS is recommended and the hypen ("-") is required!
--------------------------------------------------------------------------------
+
 
 Since this program was created for one unique case, it's assumed that the user will not make errors
 when prompted for data. Error handling was not implemented in this project for this reason.
